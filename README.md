@@ -5,7 +5,7 @@ My test repository for IS590SCL GitHub learning
 
 ## Some headers
 
-Just starting out
-Cloning attempt successful.
+Just trying something out
+Tom is always trying to catch Jerry but fails miserably.
 
  ༼ つ ◕_◕ ༽つ
